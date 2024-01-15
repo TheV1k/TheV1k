@@ -4,7 +4,7 @@
 
 <p>👨‍🏭Atualmente trabalho com gerente de remanejamento na BB Tecnologia e Serviços.</p>
 <p>📘Estudo programaзгo atravйs da plataforma Alura.</p>
-<p>☀Estou procurando melhorar o meu portifуlio para me candidatar a trabalhos freelance em programação.</p>
+<p>☀Estou procurando melhorar o meu portifolio para me candidatar a trabalhos freelance em programação.</p>
 
 <p>⚡ Sou formado em jornalismo e pós-graduado em jornalismo cultural. Também tenho MBA em gestão de pessoas.</p>
 
