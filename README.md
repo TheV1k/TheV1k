@@ -1,6 +1,7 @@
 <h1>Hi there!  Me chamo Victor Moreira Ramos!</h1>
 
 <h2>Sobre Mim</h2>
+![TheV1k's GitHub Stats](https://readme-stats-github.pages.dev/api?username=TheV1k&theme=shadow) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=TheV1k&theme=shadow)
 
 <p>👨‍🏭Atualmente atuo como técnico na BB Tecnologia e Serviços.</p>
 <p>📘Estudo programaзгo atravйs da plataforma Alura.</p>
