@@ -4,7 +4,7 @@
 
 <p>👨‍🏭Atualmente atuo como técnico na BB Tecnologia e Serviços.</p><p>📘Estudo programação através da plataforma Alura.</p><p>☀Estou procurando melhorar o meu portifolio para me candidatar a trabalhos freelance em programação.</p><p>⚡ Sou formado em jornalismo com MBA em gestão de pessoas.</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align ="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://readme-stats-github.pages.dev/api?username=TheV1k&theme=shadow" alt="GitHub Stats" />
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=TheV1k&theme=shadow" alt="Top Languages" />
 </div>
