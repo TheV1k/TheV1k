@@ -1,6 +1,6 @@
 # [![Typing SVG](https://typingsvg.vercel.app/api/svg?width=950&pause=990&backgroundColor=%23000000&cursorStyle=block&lines=[{"text":"Olá,%20eu%20me%20chamo%20Victor%20Moreira!","color":"%23ffffff"}])](https://github.com/whiteSHADOW1234/TypingSVG)
 
-### Estudante de Engenharia de Software | Desenvolvedor Java & Spring Boot
+### <p align="center> Estudante de Engenharia de Software | Desenvolvedor Java & Spring Boot </p>
 
 
 <p align="center">
