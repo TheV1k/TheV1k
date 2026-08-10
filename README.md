@@ -87,8 +87,16 @@ Busco aplicar conceitos de arquitetura de software, Clean Code, padrões de proj
 
 ## 📊 Estatísticas do GitHub
 
-<div align ="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 19px;">
-<img src="https://readme-stats-github.pages.dev/api?username=TheV1k&theme=shadow" alt="GitHub Stats" />
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=TheV1k&theme=shadow" alt="Top Languages" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" padding="10">
+        <img src="https://readme-stats-github.pages.dev/api?username=TheV1k&theme=shadow" alt="GitHub Stats" />
+      </td>
+      <td width="20"></td> <!-- Coluna invisível que cria o espaçamento exato -->
+      <td align="center" padding="10">
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=TheV1k&theme=shadow" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
-
