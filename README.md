@@ -3,12 +3,13 @@
 ### Estudante de Engenharia de Software | Desenvolvedor Java & Spring Boot
 
 
-<p style="display: flex; gap: 18px; align-items: center;">
+<p align="center">
   <a href="https://linkedin.com/in/victormoreiramos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/TheV1k"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:victormoreiramos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a href="https://mailto:victormoreiramos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
 ---
 
 
