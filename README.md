@@ -89,6 +89,6 @@ Busco aplicar conceitos de arquitetura de software, Clean Code, padrões de proj
 
 <p align="center">
   <img src="https://readme-stats-github.pages.dev/api?username=TheV1k&theme=shadow" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=TheV1k&theme=shadow" alt="Top Languages" />
 </p>
